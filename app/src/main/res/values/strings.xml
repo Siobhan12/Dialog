@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Dialog</string>
+    <string name="dialogalerta">Dialog Alerta</string>
+    <string name="dialogconfi">Dialog Confirmación</string>
+    <string name="dialogselect">Dialog Seleccion</string>
+    <string name="dialogselectcheckbox">Dialog Seleccion con CheckBox</string>
+    <string name="dialogselectradiobutton">Dialog Seleccion con Radio Button</string>
+    <string name="dialogpersonalizado">Dialog Personalizado</string>
+    <string name="dialogo_linea_1">Dialog Nombre </string>
+    <string name="dialogo_linea_2">Dialog Numero</string>
+
+</resources>

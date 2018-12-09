@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/btnDialogAlerta"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/dialogalerta"
+        android:layout_marginTop="50dp">
+    </Button>
+    <Button
+        android:id="@+id/btnDialogConfirmacion"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/dialogconfi">
+    </Button>
+    <Button
+        android:id="@+id/btnDialogSeleccion"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/dialogselect">
+    </Button>
+    <Button
+        android:id="@+id/btnDialogSeleccionCheckBox"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/dialogselectcheckbox">
+    </Button>
+    <Button
+        android:id="@+id/btnDialogSeleccionRadioButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/dialogselectradiobutton">
+    </Button>
+    <Button
+        android:id="@+id/btnDialogPersonalizado"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/dialogpersonalizado">
+    </Button>
+
+</LinearLayout>
